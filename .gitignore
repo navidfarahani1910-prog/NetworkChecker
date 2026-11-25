@@ -1,0 +1,7 @@
+network_report.txt
+__pycache__/
+*.pyc
+.venv/
+.env
+*.pcap
+*.pcapng
